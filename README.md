@@ -37,7 +37,8 @@ Yang suka overthinking sebelum deploy
 Yang pengen bilang: "ah coba dulu aja"
 
 
-> [!NOTE] Repo ini bakal di-update kalau kepikiran. Biasanya bakal diumumin di deskripsi repo atau judul commit. Kalau nggak update lama, berarti lagi mikir… atau lupa 😄
+> [!NOTE]
+> Repo ini bakal di-update kalau kepikiran. Biasanya bakal diumumin di deskripsi repo atau judul commit. Kalau nggak update lama, berarti lagi mikir… atau lupa 😄
 
 
 
